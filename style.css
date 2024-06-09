@@ -1,0 +1,28 @@
+.jumbotron{
+    padding-top: 6rem;
+    background-color:rgb(249, 240, 122);
+}
+
+#projects{
+    background-color: rgb(251, 136, 180);
+}
+
+section {
+    padding-top: 5rem;
+}
+
+footer a{
+    text-decoration: none;
+}
+
+#projects a{
+    text-decoration: none;
+}
+
+#gallery .row > *{
+    padding: 0;
+}
+
+.container{
+    width: 65%;
+}
